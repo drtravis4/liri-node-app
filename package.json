@@ -257,7 +257,7 @@
       "resolved": "https://registry.npmjs.org/jsprim/-/jsprim-1.4.1.tgz",
       "version": "1.4.1"
     },
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mime-db": {
       "integrity": "sha1-SNJtI1WJZRcErFkWygYAGRQmaHg=",
       "resolved": "https://registry.npmjs.org/mime-db/-/mime-db-1.29.0.tgz",
